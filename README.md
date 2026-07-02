@@ -1,22 +1,24 @@
-# Hi, I'm Alif 👋
-
-Diploma in Information Technology Student
-
-Currently doing internship in IT Support.
-
-Interested in:
-
-- IT Support
-- Data Analytics
-- SQL
-- Power BI
-- Power Apps
-- Networking
-
-Current Learning
-
-✔ SQL
-✔ Power BI
-✔ Power Apps
-✔ SharePoint
-✔ Power Automate
+Portfolio/
+│
+├── README.md
+│
+├── Power Apps/
+│   ├── MeetingRoomBookingSystem/
+│   │   ├── screenshots/
+│   │   ├── description.md
+│   │   ├── architecture.png
+│   │   └── flow.png
+│
+├── Power Automate/
+│   ├── EmailApprovalFlow/
+│   │   ├── flow-description.md
+│   │   └── flow-screenshot.png
+│
+├── SharePoint/
+│   ├── Lists-Structure.md
+│
+├── IT Support/
+│   ├── troubleshooting-log.md
+│
+└── Certificates/
+    ├── cert1.png
