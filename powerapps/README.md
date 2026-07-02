@@ -17,13 +17,13 @@ A system built using Microsoft Power Apps to manage meeting room bookings in an 
 - Integrated with SharePoint / Power Automate
 
 **Screenshots:**
-![Main Screen](portfolio/powerapps/MeetingRoomBookingSystem/screenshots/Login-page.png)
+![Main Screen](./portfolio/powerapps/MeetingRoomBookingSystem/screenshots/Login-page.png)
 
-![Create Booking](portfolio/powerapps/MeetingRoomBookingSystem/screenshots/Detail-page.png)
+![Create Booking](./portfolio/powerapps/MeetingRoomBookingSystem/screenshots/Detail-page.png)
 
-![Create Booking 2](portfolio/powerapps/MeetingRoomBookingSystem/screenshots/schedule-page.png)
+![Create Booking 2](./portfolio/powerapps/MeetingRoomBookingSystem/screenshots/schedule-page.png)
 
-![Booked!!!](portfolio/powerapps/MeetingRoomBookingSystem/screenshots/Booked-page.png)
+![Booked!!!](./portfolio/powerapps/MeetingRoomBookingSystem/screenshots/Booked-page.png)
 
 ---
 
