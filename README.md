@@ -1,28 +1,39 @@
-# Alif Haikal - IT Portfolio
+# 📁 Alif Haikal Portfolio
 
-This portfolio showcases my experience in IT Support, Microsoft Power Platform (Power Apps, Power Automate), and SharePoint development.
+## 👨‍💻 About Me
+Hi, I am an IT student interested in software development, data, and Microsoft Power Platform.
 
-## 📌 Projects Included
+---
 
-### 🟦 Power Apps
-- Meeting Room Booking System (SharePoint + Power Automate integration)
+## 🚀 Projects
 
-### ⚡ Power Automate
-- Email Approval Workflow System
+### 📌 Meeting Room Booking System (Power Apps)
+A system built using Microsoft Power Apps to manage meeting room bookings in an organization.
 
-### 📊 SharePoint
-- List-based data management structure for business applications
+**Features:**
+- Book meeting rooms
+- Check availability
+- Booking confirmation
+- Integrated with SharePoint / Power Automate
 
-### 🛠 IT Support
-- Troubleshooting logs and system support documentation
+**Screenshots:**
+![Main Screen](./screenshots/Login-page.png)
 
-## 🧠 Skills
-- Power Apps Development
-- Power Automate Workflow
-- SharePoint List Management
-- IT Support & Helpdesk
-- Microsoft 365 Tools
+![Create Booking](./portfolio/powerapps/MeetingRoomBookingSystem/screenshots/Detail-page.png)
+
+![Create Booking 2](./portfolio/powerapps/MeetingRoomBookingSystem/screenshots/schedule-page.png)
+
+![Booked!!!](./portfolio/powerapps/MeetingRoomBookingSystem/screenshots/Booked-page.png)
+
+---
+
+## 🛠️ Tools Used
+- Microsoft Power Apps
+- SharePoint
+- Power Automate
+- GitHub
+
+---
 
 ## 📫 Contact
-Email: your email
-LinkedIn: your link
+- Email: yourname@email.com
