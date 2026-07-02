@@ -4,8 +4,8 @@
 ### Main Screen
 ![Main Screen](screenshots/Login-page.png)
 
-![Main Screen](screenshots/Detail-page.png)
+![Create Booking Page](screenshots/Detail-page.png)
 
-![Main Screen](screenshots/Schedule-page.png)
+![Create Booking Page 2](screenshots/schedule-page.png)
 
-![Main Screen](screenshots/Booked-page.png)
+![Booked!!](screenshots/Booked-page.png)
